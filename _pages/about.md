@@ -11,9 +11,9 @@ redirect_from:
 I am an undergraduate student in the Department of Computer Science and Technology at Tsinghua University. 
 My research interest lies in machine learning algorithms and representation learning.
 
-Experience
-======
-primary - junior - senior - university[this page](https://www.baidu.com)
+<!-- Experience -->
+<!-- ====== -->
+<!-- primary - junior - senior - university[this page](https://www.baidu.com) -->
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<!-- Example: editing a markdown file for a talk -->
+<!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
